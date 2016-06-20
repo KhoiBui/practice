@@ -1,0 +1,1 @@
+all = ["bubble_sort", "sort_tests"]
